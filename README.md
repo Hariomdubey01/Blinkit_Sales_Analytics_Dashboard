@@ -74,6 +74,30 @@ The dashboard reveals several meaningful business patterns:
 - Older outlets show more consistent revenue performance than newly established ones.
 
 ---
+# 📂 Repository Structure
+
+```text
+Blinkit-Sales-Analytics-Dashboard/
+│
+├── 📊 Blinkit_Sales_Analytics_Dashboard.pbix
+│      └── Interactive Power BI dashboard with KPIs, DAX measures, and visual analytics
+│
+├── 📑 Blinkit_Grocery_Data_Cleaned.xlsx
+│      └── Cleaned dataset used for dashboard development
+│
+├── 🖼️ Blinkit Sales Analytics Dashboard.png
+│      └── Dashboard preview image for GitHub and documentation
+│
+├── 📄 Blinkit_Dashboard_Presentation.pdf
+│      └── Professional dashboard presentation and project summary
+│
+├── 📽️ Dashboard_Presentation.pptx
+│      └── PowerPoint presentation explaining project insights and dashboard design
+│
+└── 📘 README.md
+       └── Project documentation and setup guide
+```
+
 
 # 🛠 Tech Stack
 
