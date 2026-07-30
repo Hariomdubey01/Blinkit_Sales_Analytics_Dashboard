@@ -219,21 +219,36 @@ Planned improvements include:
 
 ---
 
-# 👤 Author
+# 👨‍💻 About Me
 
 **Hariom Dubey**
 
-**Aspiring Data Analyst**
+Aspiring **Data Analyst** passionate about transforming data into meaningful business insights.
 
-**Skills:** Python • SQL • Power BI • Excel • Data Visualization • DAX
+### Areas of Interest
 
-📌 **GitHub:** https://github.com/Hariomdubey01
-
-📌 **LinkedIn:** www.linkedin.com/in/hariom-dubey-81b752285
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- SQL
+- Python
+- Power BI
+- Machine Learning
 
 
 ---
 
+# 📬 Contact
+
+**Hariom Dubey**
+
+📧 Email: Hariomkumard8@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/hariom-dubey-81b752285
+
+💻 GitHub: https://github.com/Hariomdubey01
+
+---
 # 📄 License
 
 This project is for academic and portfolio purposes. Feel free to fork and adapt with attribution.
