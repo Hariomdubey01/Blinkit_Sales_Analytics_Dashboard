@@ -271,10 +271,11 @@ Aspiring **Data Analyst** passionate about transforming data into meaningful bus
 ## 📬 Contact
  
 | | |
+|---|---|
 | 📧 **Email** | Hariomkumard8@gmail.com |
 | 💼 **LinkedIn** | [linkedin.com/in/hariom-dubey-81b752285](https://www.linkedin.com/in/hariom-dubey-81b752285) |
 | 💻 **GitHub** | [github.com/Hariomdubey01](https://github.com/Hariomdubey01) |
- 
+
 ---
 
 ---
